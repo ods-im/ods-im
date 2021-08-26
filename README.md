@@ -25,6 +25,10 @@
 ---
 ### Recent activities
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#1](https://github.com/ods-im/ods-im/issues/1) in [ods-im/ods-im](https://github.com/ods-im/ods-im)
+2. 🗣 Commented on [#1](https://github.com/ods-im/ods-im/issues/1) in [ods-im/ods-im](https://github.com/ods-im/ods-im)
+3. ❗️ Opened issue [#8](https://github.com/0xl2oot/webstack-jekyll/issues/8) in [0xl2oot/webstack-jekyll](https://github.com/0xl2oot/webstack-jekyll)
+<!--END_SECTION:activity-->
 
   
 ---
