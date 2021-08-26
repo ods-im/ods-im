@@ -12,7 +12,7 @@
 
 ### My stats
 
-[<span><img src="https://github-readme-stats.vercel.app/api?username=ods-im&count_private=true&show_icons=true&theme=flag-india" height=145/></span><span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ods-im&layout=compact" height=145/></span>](https://orangii.cn/)
+[<span><img src="https://github-readme-stats.vercel.app/api?username=ods-im&count_private=true&show_icons=true&theme=flag-india" height=145/></span><span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ods-im&layout=compact" height=145/></span>](https://minecraft.ods.im/)
   
 ---
 ### My Blog Posts
@@ -24,14 +24,8 @@
   
 ---
 ### Recent activities
-<!--START_SECTION:activity
-1. ❗️ Closed issue [#16010](https://github.com/timburgan/timburgan/issues/16010) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
-2. ❗️ Opened issue [#16010](https://github.com/timburgan/timburgan/issues/16010) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
-3. ❗️ Opened issue [#1](https://github.com/zsh2517/Shijiedaxue.top/issues/1) in [zsh2517/Shijiedaxue.top](https://github.com/zsh2517/Shijiedaxue.top)
-4. ❗️ Opened issue [#4](https://github.com/ods-im/UMAP/issues/4) in [ods-im/UMAP](https://github.com/ods-im/UMAP)
-5. 🗣 Commented on [#8](https://github.com/tg2019303/TG2019303.github.io/issues/8) in [tg2019303/TG2019303.github.io](https://github.com/tg2019303/TG2019303.github.io)
-6. ❗️ Closed issue [#2](https://github.com/ods-im/UMAP/issues/2) in [ods-im/UMAP](https://github.com/ods-im/UMAP)
-END_SECTION:activity-->
+<!--START_SECTION:activity-->
+
   
 ---
 ### Support Me
