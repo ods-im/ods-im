@@ -25,9 +25,9 @@
 ---
 ### Recent activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/ods-im/ods-im/issues/1) in [ods-im/ods-im](https://github.com/ods-im/ods-im)
+1. 🗣 Commented on [#54](https://github.com/LielAmar/2FA/issues/54) in [LielAmar/2FA](https://github.com/LielAmar/2FA)
 2. 🗣 Commented on [#1](https://github.com/ods-im/ods-im/issues/1) in [ods-im/ods-im](https://github.com/ods-im/ods-im)
-3. ❗️ Opened issue [#8](https://github.com/0xl2oot/webstack-jekyll/issues/8) in [0xl2oot/webstack-jekyll](https://github.com/0xl2oot/webstack-jekyll)
+3. 🗣 Commented on [#1](https://github.com/ods-im/ods-im/issues/1) in [ods-im/ods-im](https://github.com/ods-im/ods-im)
 <!--END_SECTION:activity-->
 
   
